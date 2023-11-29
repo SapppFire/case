@@ -1,6 +1,6 @@
 #include <iostream>
 
-//Comment 1
+//comment 1
 
 int main() 
 {
