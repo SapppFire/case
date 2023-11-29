@@ -1,6 +1,6 @@
 #include <iostream>
 
-//This program is only for study
+//comment 1
 
 int main() 
 {
