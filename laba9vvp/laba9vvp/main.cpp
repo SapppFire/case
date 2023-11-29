@@ -8,12 +8,12 @@ int main()
 	
 	std::cout << "The First integer number will be: ";
 
-	int a;
+	int16_t a;
 	std::cin >> a;
 
 	std::cout << "\nThe second integer number will be: ";
 
-	int b;
+	int16_t b;
 	std::cin >> b;
 
 	std::cout << "\nA + B = " << a + b << std::endl;
