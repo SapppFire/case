@@ -14,5 +14,7 @@ int main()
 	int b;
 	std::cin >> b;
 
+	std::cout << "\nA + B = " << a + b << std::endl;
+
 	return 0;
 }
